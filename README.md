@@ -1,6 +1,3 @@
-# Ankit_Portfolio
-Example Projects
-
 # [Project - IMDB-Sentiment-Analysis-Web-App-](https://github.com/ankitchaudhary23/IMDB-Sentiment-Analysis-Web-App-)
 Using Amazon's SageMaker service to construct a random tree model to predict the sentiment of a IMDB movie review.
 **Steps involved in the processs**
