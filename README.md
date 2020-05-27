@@ -1,6 +1,20 @@
 # Ankit_Portfolio
 Example Projects
 
+# [Project - IMDB-Sentiment-Analysis-Web-App-](https://github.com/ankitchaudhary23/IMDB-Sentiment-Analysis-Web-App-)
+Using Amazon's SageMaker service to construct a random tree model to predict the sentiment of a IMDB movie review.
+**Steps involved in the processs**
+
+1. Download or otherwise retrieve the data.
+2. Process / Prepare the data.
+3. Upload the processed data to S3.
+4. Train a chosen model.
+5. Test the trained model (typically using a batch transform job).
+6. Deploy the trained model.
+7. Use the deployed model through Web App.
+8. Setted up AWS Lambda and AWS API Gateway in order to deploy model through model endpoint.
+
+
 
 # [Project - Predicting Boston Housing Prices](https://github.com/ankitchaudhary23/Machine_Learning_Engineer-Nanodgree/blob/master/01-boston-housing/README.md)
 * The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
@@ -33,3 +47,6 @@ Example Projects
 * Summary of Findings: There were 2.38M rides. 20-30 years old users are rapidly growing compared to other user groups. When the service first started 30-40 years old users were dominant, however 20-30 years old users became leader in a year. 20 to 40 years old people took the more than %70 of bike rides. Among those, 30 to 40 years old people's rides account almost 40% of all bike rides. Male took around 76% of all bike rides, and female took around 24% of them. People use this service on weekdays more than weekends. 8am and 5pm are the peak hours for this service. Also, people use this service when they are in lunch time as well. Percentage of subscribers is almost 88.15%. Percentage of customers is almost 11.85%. Customers' rides seems increasing slightly but subscibers' rides reached 6 times more than customers' on October 2018. There is a decrease on November 2018 for subscribers but it seems like it is related with winter season. Subscribers' average trip duration is around 11 minutes. Customers' average trip duration is around 28 minutes. Subscribers and customers trip distance were about the same, which is slightly more than one mile. 90% of bike rides take place on weekday. The peak bike rides time for all members is around commute time.Finally, it seems that 45 to 45 years old age group use the service the most.
 
 * Key Insights for Presentation: For the presentation, I focus on the influence of age, timeframe, weekday, age group of bike hiring data. I start by introducing the age distrubition, monthly bike hiring trend, followed by age group distribution, then plot the weekday, timeframe with age data. I tried to use different color palettes for each variables to make sure it is clear and to ber interested that they're different between each other.
+
+# [Project - WebScraper](https://github.com/ankitchaudhary23/Web-Scraper)
+* A Data Analytics Project using R programming. A webcrawler fetching the research papers from https://gmb.org.br Downloads the html copy of each paper, and fetches DOI, TITLE, AUTHORS, AUTHOR ASSOCIATION, CORRESPONDING AUTHOR, CORRESPONDING AUTHOR EMAIL, ABSTRACT, PUBLISH DATE, BODY, and KEYWORDS. Then writing the fetched files into a text file. The file crawler.r contains the files for the crawler, while the file crawledData.r is responsible for reading the papers, fetching the required information and writing them to the output file.
