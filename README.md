@@ -1,7 +1,7 @@
 # Ankit_Portfolio
 Example Projects
 
-# [Project: Predicting Boston Housing Prices](https://github.com/ankitchaudhary23/Machine_Learning_Engineer-Nanodgree/blob/master/01-boston-housing/README.md)
+# [Project - Predicting Boston Housing Prices](https://github.com/ankitchaudhary23/Machine_Learning_Engineer-Nanodgree/blob/master/01-boston-housing/README.md)
 * The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
 
 **Features**
