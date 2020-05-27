@@ -2,7 +2,7 @@
 Example Projects
 
 # [Project - IMDB-Sentiment-Analysis-Web-App-](https://github.com/ankitchaudhary23/IMDB-Sentiment-Analysis-Web-App-)
-* Using Amazon's SageMaker service to construct a random tree model to predict the sentiment of a IMDB movie review.
+Using Amazon's SageMaker service to construct a random tree model to predict the sentiment of a IMDB movie review.
 **Steps involved in the processs**
 
 1. Download or otherwise retrieve the data.
@@ -18,7 +18,7 @@ Example Projects
 
 
 # [Project - Predicting Boston Housing Prices](https://github.com/ankitchaudhary23/Machine_Learning_Engineer-Nanodgree/blob/master/01-boston-housing/README.md)
-* The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
+The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
 
 **Features**
 1.  `RM`: average number of rooms per dwelling
@@ -31,9 +31,8 @@ Example Projects
 
 # [Project - Twitter Sentiment Analysis](https://github.com/ankitchaudhary23/Twitter-Sentiment-Analysis/edit/master/README.md)
 
-* The objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.
-
-* Formally, given a training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist, your objective is to predict the labels on the test dataset.
+The objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.
+Formally, given a training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist, your objective is to predict the labels on the test dataset.
 
 # [Project - WeRateDogs Exploratory Analysis](https://github.com/ankitchaudhary23/Data_Analyst-Nanodegree/tree/master/04-data-wrangling)
 ** Data Wrangling: The dataset that I had worked for wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
@@ -50,4 +49,4 @@ Example Projects
 * Key Insights for Presentation: For the presentation, I focus on the influence of age, timeframe, weekday, age group of bike hiring data. I start by introducing the age distrubition, monthly bike hiring trend, followed by age group distribution, then plot the weekday, timeframe with age data. I tried to use different color palettes for each variables to make sure it is clear and to ber interested that they're different between each other.
 
 # [Project - WebScraper](https://github.com/ankitchaudhary23/Web-Scraper)
-* A Data Analytics Project using R programming. A webcrawler fetching the research papers from https://gmb.org.br Downloads the html copy of each paper, and fetches DOI, TITLE, AUTHORS, AUTHOR ASSOCIATION, CORRESPONDING AUTHOR, CORRESPONDING AUTHOR EMAIL, ABSTRACT, PUBLISH DATE, BODY, and KEYWORDS. Then writing the fetched files into a text file. The file crawler.r contains the files for the crawler, while the file crawledData.r is responsible for reading the papers, fetching the required information and writing them to the output file.
+A Data Analytics Project using R programming. A webcrawler fetching the research papers from https://gmb.org.br Downloads the html copy of each paper, and fetches DOI, TITLE, AUTHORS, AUTHOR ASSOCIATION, CORRESPONDING AUTHOR, CORRESPONDING AUTHOR EMAIL, ABSTRACT, PUBLISH DATE, BODY, and KEYWORDS. Then writing the fetched files into a text file. The file crawler.r contains the files for the crawler, while the file crawledData.r is responsible for reading the papers, fetching the required information and writing them to the output file.
