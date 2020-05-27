@@ -1,12 +1,22 @@
 # Ankit_Portfolio
 Example Projects
 
+# [Project: Predicting Boston Housing Prices](https://github.com/ankitchaudhary23/Machine_Learning_Engineer-Nanodgree/blob/master/01-boston-housing/README.md)
+* The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
 
-# [Project 4 - WeRateDogs Exploratory Analysis](https://github.com/ankitchaudhary23/Data_Analyst-Nanodegree/tree/master/04-data-wrangling)
+**Features**
+1.  `RM`: average number of rooms per dwelling
+2. `LSTAT`: percentage of population considered lower status
+3. `PTRATIO`: pupil-teacher ratio by town
+
+**Target Variable**
+4. `MEDV`: median value of owner-occupied homes
+
+# [Project - WeRateDogs Exploratory Analysis](https://github.com/ankitchaudhary23/Data_Analyst-Nanodegree/tree/master/04-data-wrangling)
 * Data Wrangling The dataset that I had worked for wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 * My goal: Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.
 
-# [Project 5 - Customer habits of Ford GoBike System in 2017 & 2018](https://github.com/ankitchaudhary23/Data_Analyst-Nanodegree/tree/master/05-data-visualization/project-05)
+# [Project - Customer habits of Ford GoBike System in 2017 & 2018](https://github.com/ankitchaudhary23/Data_Analyst-Nanodegree/tree/master/05-data-visualization/project-05)
 
 <span style="color: gray; font-size:1em;">Ankit Chaudhary</span>
 <br><span style="color: gray; font-size:1em;">Feb-2020</span>
